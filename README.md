@@ -1,6 +1,6 @@
 ## Olá eu sou Kleber Moreira
 
-<div style="display: inline_block"><br>
+<div>
   <a href="https://github.com/KleberMoreira3010">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KleberMoreira3010&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KleberMoreira3010&layout=compact&langs_count=7&theme=dracula"/>
@@ -15,17 +15,17 @@
   
   ##
  
+ <div/> 
   
-  
-  <div> 
+ 
    
- 	 <a href = "mailto:klb_moreira@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/klebermoreira2020" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://api.whatsapp.com/send?phone=551992359679" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
- 
+ <div> 
+  
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://api.whatsapp.com/send?phone=551992359679" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+ <a href="mailto:klb_moreira@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  
  ![Snake animation](https://github.com/KLeberMoreira3010/KleberMoreira3010/blob/output/github-contribution-grid-snake.svg)
- 
- 
- 
+  
 </div>
 
