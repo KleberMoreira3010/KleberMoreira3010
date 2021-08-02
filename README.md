@@ -25,7 +25,6 @@
  
  
  
-  ![Snake animation](https://github.com/KleberMoreira3010/Kleber_Moreira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
