@@ -2,7 +2,7 @@
 
 Tenho dedicado meus últimos anos de experiência ao estudo de Análise de Dados e tecnologias relacionadas
 
-Abaixo as principais focos de atuação
+Abaixo os principais focos de atuação
 
 - 🔭 Análise de Dados utilizando as ferramentas como Power BI, Tableau e Metabase
 - 📒 Minhas principais Linguagens de Programação e Ferramentas <b>Python, R, SQL, PySpark e Databricks.</b>
