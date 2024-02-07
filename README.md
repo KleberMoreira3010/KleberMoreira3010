@@ -8,7 +8,7 @@ Abaixo as principais focos de atuação
 - 📒 Minhas principais Linguagens de Programação e Ferramentas <b>Python, R, SQL, PySpark e Databricks.</b>
 - 🎰 Entusiasta de Machine Learning;
 - 🎲 Utilizo Ferramentas de ETL: Pentaho;
-- 📒 MOdelagem/Engenharia de Dados : <b> SSIS, SSAS, SSRS, Azure Analysis Service e Azure Data Factory;.</b>
+- 📒 Modelagem/Engenharia de Dados : <b> SSIS, SSAS, SSRS, Azure Analysis Service e Azure Data Factory;.</b>
 - 📫 Meu email de contato: klb_moreira@hotmail.com
 - 📜 Para conhecer um pouco da minha trajetória profissional, basta acessar meu linkedin https://www.linkedin.com/in/klebermoreira2020/
 
