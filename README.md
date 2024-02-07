@@ -5,11 +5,11 @@ Tenho dedicado meus últimos anos de experiência ao estudo de Análise de Dados
 Abaixo as principais focos de atuação
 
 - 🔭 Análise de Dados utilizando as ferramentas como Power BI, Tableau e Metabase
-- 📒 Minahas principais Linguagens de Programação e Ferramentas <b>Python, R, SQL, PySpark e Databricks.</b>
+- 📒 Minhas principais Linguagens de Programação e Ferramentas <b>Python, R, SQL, PySpark e Databricks.</b>
 - 🧑‍💻 Modelagem de Dados;
 - 🎰 Entusiasta de Machine Learning;
 - 🎲 Utilizo Ferramentas de ETL: Pentaho;
-- 📒 Foco/Estudo em Azure: <b>, SSIS, SSAS, SSRS, Azure Analysis Service e Azure Data Factory;.</b>
+- 📒 Engenharia de Dados : <b>, SSIS, SSAS, SSRS, Azure Analysis Service e Azure Data Factory;.</b>
 - 📫 Meu email de contato: klb_moreira@hotmail.com
 - 📜 Para conhecer um pouco da minha trajetória profissional, basta acessar meu linkedin https://www.linkedin.com/in/klebermoreira2020/
 
